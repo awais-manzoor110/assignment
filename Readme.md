@@ -10,7 +10,7 @@
 
 1. Clone the repository.
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/awais-manzoor110/assignment.git
    ```
 
 ### Usage
@@ -18,7 +18,7 @@
 1. Navigate to the project directory.
 
    ```sh
-   cd your-repository
+   cd assignment
    ```
 
 2. Run the script to get the top results.

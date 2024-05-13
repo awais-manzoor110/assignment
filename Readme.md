@@ -25,3 +25,7 @@
    ```sh
    npm run Top-Results
    ```
+
+### Test Results
+
+![](https://github.com/awais-manzoor110/assignment/blob/master/cypress/fixtures/Result.png)

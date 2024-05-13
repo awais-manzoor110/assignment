@@ -18,7 +18,7 @@
 1. Navigate to the project directory.
 
    ```sh
-   cd your-repository
+   cd assignment
    ```
 
 2. Run the script to get the top results.

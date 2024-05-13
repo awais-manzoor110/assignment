@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "Top-Ten-Result": "npx cypress run --browser chrome --spec cypress/e2e/test1.cy.js "
+  },
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
